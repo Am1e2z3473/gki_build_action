@@ -1,7 +1,7 @@
 #!/usr/bin/env bash
 # Small wrapper for kernel scripts/config
 
-KERNEL="/root/kernel-amiezz/kernel-lts/common"
+KERNEL="kernel_workspace/common"
 SCRIPT="$KERNEL/scripts"
 CONFIG="$KERNEL/arch/arm64/configs/gki_defconfig"
 
